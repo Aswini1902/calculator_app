@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "script-runner": "^0.1.8"
+  },
+  "start": "node index.js"
+}
